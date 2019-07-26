@@ -63,3 +63,4 @@ python train.py
 
 ### 博客介绍思路：
 1、https://mp.weixin.qq.com/s/72FiZxk4eFkftBGdxFTJcA 2019腾讯广告算法大赛-冠军之路
+2、数据在李剑网盘 2019腾讯广告算法大赛数据
